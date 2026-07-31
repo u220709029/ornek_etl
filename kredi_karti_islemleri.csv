@@ -1,0 +1,5 @@
+Islem_ID;Musteri_TC;Tarih;Tutar;Durum
+1001;12345678901;12-05-2023;₺1.500,50;Basarili
+1002;;13-05-2023;₺200,00;Basarili
+1003;99999999999;2023/05/14;₺5.400,00;Iptal
+1004;11111111111;15-05-2023;hatali_islem;Basarisiz
